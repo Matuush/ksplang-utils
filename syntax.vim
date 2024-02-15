@@ -1,5 +1,8 @@
 syn case ignore
 
+syn match func "\<fn_.*\>"
+hi func ctermfg=green guifg=green
+
 syn match comp "\<\(def\|end\)\>"
 hi comp ctermfg=red guifg=red
 
