@@ -16,3 +16,6 @@ C++ program s následujícími featurami
 
 ## ksplang vim syntax highlighting
 Pár regexů matchujících jednotlivé instrukce ksplangu pro textový editor Vim
+    - Obarvování instrukcí tak nějak, jak mně se to líbilo
+    - `def` a `end` jsou červeně
+    - fn_name jsou zeleně pro barevná jména funkcí
